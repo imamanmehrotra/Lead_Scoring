@@ -15,15 +15,15 @@ There are a lot of leads generated in the initial stage (top) but only a few of 
 
 X Education wants to select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score h have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
-Solution:
+**Solution:**
 For this case study we're going to use several classification model to predict whether the lead is going to quantify as a hot lead. The steps involved for this case study are mentioned below:
 
-Data Loading
-Data Exploration a.k.a Exploratory Data Analysis
-Preprocessing
-Feature Engineering
-Outlier Analysis
-Model Building
-Model Performance Benchmarking
-Model Performance Evaluation
-Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
+  - Data Loading
+  - Data Exploration a.k.a Exploratory Data Analysis
+  - Preprocessing
+  - Feature Engineering
+  - Outlier Analysis
+  - Model Building
+  - Model Performance Benchmarking
+  - Model Performance Evaluation
+  - Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
